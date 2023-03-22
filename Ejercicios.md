@@ -2,8 +2,6 @@ Los ejercicios a completar están basados a partir unos ejemplo de funciones en 
 
 Las preguntas, que hay que contestar implementando una modificación en el código son las siguientes:
 
-## Exercises
-
 1. If you have knowledge about Object-oriented Programming (OOP) implement the above
 algorithm as a Python class.
 2. With the current parent selection mechanism, could both parents be the same individual? If so,
