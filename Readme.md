@@ -8,4 +8,4 @@ El objetivo de este repositorio es registrar la resolución a los problemas plan
 
 Los ejercicios correspondientes a cada ejercicio se encuentra de forma individual
 
-[Ejercicio_2](ejercico2.md)
+[Ejercicio_2](ejercicio2.md)
