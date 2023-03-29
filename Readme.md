@@ -6,4 +6,4 @@ El objetivo de este repositorio es registrar la resolución a los problemas plan
 
 [Ejercicios](Ejercicios.md)
 
-Los [codigos](codigos.md) correspondientes a cada ejercicio se encuentra de forma individual
+Los [ejercico2](ejercico2.md) correspondientes a cada ejercicio se encuentra de forma individual
